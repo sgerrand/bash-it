@@ -1,4 +1,4 @@
-# Load rbebv, if you are using it
+# Load rbenv, if you are using it
 
 cite about-plugin
 about-plugin 'load rbenv, if you are using it'
